@@ -41,9 +41,20 @@ Debido a que tenemos el valor del inductor al extremo lo que debemos hacer es te
 #### 15) Determine la inductancia total en paralelo para las siguientes bobinas dispuestas en paralelo: 75 mH, 50 mH, 25 mH, y 15 mH.
 
 
+**19) Determine la constante de tiempo para cada una de las siguientes combinaciones RL dispuestas en serie:**
+
+Utilizando la formula de la constante de tiempo tenemos:
+
+![image](https://user-images.githubusercontent.com/93361435/151203424-ce5f62a5-aa28-4915-b09b-cef615a849e7.png)
+
+
 #### 23) Repita el problema 21 para los siguientes instantes:
 ![image](https://user-images.githubusercontent.com/93398718/150914185-1eb7c8c2-f956-4b74-95af-926763dc2ab3.png)  
 
+
+
+
+![image](https://user-images.githubusercontent.com/93361435/151200429-4151f4ac-8364-47a9-bb38-a5d35f220618.png)
 
 
 #### 27) Determine la constante de tiempo para el circuito de la figura 13-50.
