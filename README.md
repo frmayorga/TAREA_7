@@ -24,6 +24,16 @@ Fernanda Mayorga, Nicolas Reyes, Stalyn Castellanos
 #### 3) ¿Cuál es el voltaje en una bobina cuando di/dt * 10 mA/ms y L * 5 mH?
 
 
+
+**7) ¿Qué cantidad de energía se guarda en un inductor de 4.7 mH cuando la corriente es de 20 mA?**
+
+Empleando la formula de energia para inductores tenemos: 
+
+![image](https://user-images.githubusercontent.com/93361435/151178441-2ff5b266-86fc-4525-a923-b9e2d0d42584.png)
+
+
+
+
 #### 15) Determine la inductancia total en paralelo para las siguientes bobinas dispuestas en paralelo: 75 mH, 50 mH, 25 mH, y 15 mH.
 
 
