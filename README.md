@@ -31,7 +31,11 @@ Empleando la formula de energia para inductores tenemos:
 
 ![image](https://user-images.githubusercontent.com/93361435/151178441-2ff5b266-86fc-4525-a923-b9e2d0d42584.png)
 
+**11) Se conectan cinco inductores en serie. El valor más bajo es de 5 mH. Si el valor de cada inductor es el doble del valor precedente, y si los inductores se conectan en orden de valores ascendentes, ¿cuál es la inductancia total?**
 
+Debido a que tenemos el valor del inductor al extremo lo que debemos hacer es tener el doble de cada valor dado, por lo tanto tenemos dobles del inductor anterior, asi tenemos lo siguiente:
+
+![image](https://user-images.githubusercontent.com/93361435/151192368-d41271fc-0876-4cc3-bfa4-36976bd3a19a.png)
 
 
 #### 15) Determine la inductancia total en paralelo para las siguientes bobinas dispuestas en paralelo: 75 mH, 50 mH, 25 mH, y 15 mH.
