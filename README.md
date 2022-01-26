@@ -54,9 +54,6 @@ Utilizando la formula de la constante de tiempo tenemos:
 
 
 
-![image](https://user-images.githubusercontent.com/93361435/151200429-4151f4ac-8364-47a9-bb38-a5d35f220618.png)
-
-
 #### 27) Determine la constante de tiempo para el circuito de la figura 13-50.
 ![image](https://user-images.githubusercontent.com/93398718/150914264-b28ffeb2-7ad3-4b80-ade8-684072325dac.png)
 
