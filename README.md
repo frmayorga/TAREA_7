@@ -14,7 +14,7 @@ Fernanda Mayorga, Nicolas Reyes, Stalyn Castellanos
 
 # MARCO TEORICO
 
-
+![INDUCTORES 1](https://user-images.githubusercontent.com/93361435/151095509-8cca7ad5-f22f-497d-91b0-529718e065fb.jpg)
 
 # EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
