@@ -52,7 +52,8 @@ Utilizando la formula de la constante de tiempo tenemos:
 
 
 #### 23) Repita el problema 21 para los siguientes instantes:
-![image](https://user-images.githubusercontent.com/93398718/150914185-1eb7c8c2-f956-4b74-95af-926763dc2ab3.png)  
+![image](https://user-images.githubusercontent.com/93398718/150914185-1eb7c8c2-f956-4b74-95af-926763dc2ab3.png)    
+![image](https://user-images.githubusercontent.com/93398718/151298812-e0420ebf-120c-49ee-8707-ca9160fd17bb.png)  
 
 
 
