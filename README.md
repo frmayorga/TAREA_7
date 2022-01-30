@@ -62,6 +62,11 @@ Utilizando la formula de la constante de tiempo tenemos:
 ![image](https://user-images.githubusercontent.com/93398718/150914264-b28ffeb2-7ad3-4b80-ade8-684072325dac.png)
 
 
+
+
+#### 31) Determine la reactancia total para cada circuito de la figura 13-47 cuando se aplica voltaje a una frecuencia de 400 Hz.
+
+
 **33) ¿Qué frecuencia producirá una corriente rms total de 500 mA en cada circuito de la figura 13-47 con
 un voltaje de entrada rms de 10 V?**
 
@@ -87,7 +92,6 @@ Para el circuito (c) tenemos que L2 y L5 en serie, esta combinación esta en par
 
 
 
-#### 31) Determine la reactancia total para cada circuito de la figura 13-47 cuando se aplica voltaje a una frecuencia de 400 Hz.
 
 
 
