@@ -62,8 +62,37 @@ Utilizando la formula de la constante de tiempo tenemos:
 ![image](https://user-images.githubusercontent.com/93398718/150914264-b28ffeb2-7ad3-4b80-ade8-684072325dac.png)
 
 
+**33) ¿Qué frecuencia producirá una corriente rms total de 500 mA en cada circuito de la figura 13-47 con
+un voltaje de entrada rms de 10 V?**
+
+![image](https://user-images.githubusercontent.com/93361435/151716081-8b35d1cb-0dd0-4dc9-afbf-16c1effa697b.png)
+
+Haciendo uso de las formulas, donde la reactancia inductiva es calculada con el uso de la ley de ohm: 
+
+![image](https://user-images.githubusercontent.com/93361435/151716051-d3773e8e-a624-48a8-bbcd-e9e985096f3b.png)
+
+Se debe calcular la inductancia total para ello tenemos: 
+
+Para el circuito (a) tenemos L1 Y L2 en paralelo y esta combinación esta en serie con la combinación en paralelo de L3 Y L4: 
+
+![image](https://user-images.githubusercontent.com/93361435/151716155-4adf3e94-9d14-4174-ab98-c95353390bf2.png)
+
+Para el circuito (b) tenemos a L3 Y L4 en serie, esta combinación esta en paralelo con la combinación en serie de L1 Y L2:
+
+![image](https://user-images.githubusercontent.com/93361435/151716194-715c1a02-f893-4c40-ab57-a263be1bc73b.png)
+
+Para el circuito (c) tenemos que L2 y L5 en serie, esta combinación esta en paralelo con la combinación en serie de L3 Y L4, por ultimo esto esta en serie con el inductor L1, por lo tanto: 
+
+![image](https://user-images.githubusercontent.com/93361435/151716255-a77c64d0-14a4-41ac-ad11-bca248eb3442.png)
+
+
 
 #### 31) Determine la reactancia total para cada circuito de la figura 13-47 cuando se aplica voltaje a una frecuencia de 400 Hz.
+
+
+
+
+
 
 
 
