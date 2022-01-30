@@ -56,6 +56,12 @@ Utilizando la formula de la constante de tiempo tenemos:
 ![image](https://user-images.githubusercontent.com/93398718/151298812-e0420ebf-120c-49ee-8707-ca9160fd17bb.png)  
 
 
+**25) En la figura 13-48, ¿en qué momento luego de que se cierra el interruptor el voltaje llega a 5 V?**
+
+![image](https://user-images.githubusercontent.com/93361435/151717725-6d9da56e-c093-4847-bd9f-d7861fe5dc38.png)
+
+
+
 
 
 #### 27) Determine la constante de tiempo para el circuito de la figura 13-50.
