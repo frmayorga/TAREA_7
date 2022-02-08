@@ -111,6 +111,32 @@ Para el circuito (c) tenemos que L2 y L5 en serie, esta combinación esta en par
 
 
 
+### CAP 14
+
+**5) Para cada transformador de la figura 14-42, trace el voltaje secundario que muestre su relación con el voltaje primario. Indique también la amplitud.**
+
+![image](https://user-images.githubusercontent.com/93361435/152910855-da8567d9-7756-40e9-be26-be2649c93332.png)
+
+Para el circuito (a) realizamos:
+
+![image](https://user-images.githubusercontent.com/93361435/152911094-f352cd1e-cfdc-446a-b57e-6e068af18f9b.png)
+
+Los voltajes estan en fase debido a que los devanados estan en la misma direccion.
+
+Para el circuito (b) realizamos: 
+
+![image](https://user-images.githubusercontent.com/93361435/152911121-a10a0f3b-2d17-4198-9a21-a6236e1f5c6c.png)
+
+Los voltajes estan en desface en 180 ya que los devanados tienen la direccion opuesta. 
+
+Para el circuito (c) realizamos: 
+
+![image](https://user-images.githubusercontent.com/93361435/152911217-b19f8864-333f-4ac4-a6c0-683e10848906.png)
+
+Los voltajes estan en desface en 180 ya que los devanados tienen la direccion opuesta.
+
+
+
 # VIDEO
 
 
