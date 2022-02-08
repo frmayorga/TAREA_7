@@ -100,12 +100,6 @@ Para el circuito (c) tenemos que L2 y L5 en serie, esta combinación esta en par
 
 
 
-
-
-
-
-
-
 #### 35) Determine IL2 en la figura 13-52.
 ![image](https://user-images.githubusercontent.com/93398718/150914480-66cdb832-84fd-440a-b74b-c472af14674f.png)
 
@@ -148,6 +142,30 @@ Utilizando las formulas ya vistas encontramos el voltaje primario:
 El cual nos da 60 V.
 
 
+
+
+
+**19) En la figura 14-49, ¿cuál es la potencia máxima que puede ser suministrada al altavoz de 4 Ohmios?**
+
+![image](https://user-images.githubusercontent.com/93361435/152989522-a6c2b0fc-734a-4c55-a3c3-628dfff7a330.png)
+
+Obtenemos el numero de vueltas presentes en el transformador tenemos: 
+
+![image](https://user-images.githubusercontent.com/93361435/152989802-e63ebcbf-2061-44d9-be68-91db540c4df8.png)
+
+Utilizando el concepto de carga reflejada tenemos el circuito equivalente: 
+
+![image](https://user-images.githubusercontent.com/93361435/152991430-63be593d-c5a6-49f6-af9b-d8842900aa7a.png)
+
+En el cual realizando los calculos correspondientes obtenemos:
+
+![image](https://user-images.githubusercontent.com/93361435/152990275-3cf2c87e-4dce-4730-b030-0cddee792d21.png)
+
+Observamos que el valor de la resistencia es el mismo por el cual podemos asegurar que la potencia sera máxima, utilizando los valores ya calculados tenemos: 
+
+![image](https://user-images.githubusercontent.com/93361435/152991860-7c3eba4c-9ba0-461f-abd9-52d30b1ed6c4.png)
+
+Obteniendo una potencia de 9.75 vatios.
 
 
 # VIDEO
