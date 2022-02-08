@@ -137,6 +137,19 @@ Los voltajes estan en desface en 180 ya que los devanados tienen la direccion op
 
 
 
+
+
+**11) ¿Cuántos volts primarios se deben aplicar a un transformador que tiene relación de vueltas de 0.1 para obtener un voltaje secundario de 6 V de ca?**
+
+Utilizando las formulas ya vistas encontramos el voltaje primario: 
+
+![image](https://user-images.githubusercontent.com/93361435/152911698-f038048e-84e3-48af-aea8-af3a3da5597d.png)
+
+El cual nos da 60 V.
+
+
+
+
 # VIDEO
 
 
