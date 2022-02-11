@@ -71,6 +71,7 @@ Utilizando la formula de la constante de tiempo tenemos:
 
 
 #### 31) Determine la reactancia total para cada circuito de la figura 13-47 cuando se aplica voltaje a una frecuencia de 400 Hz.
+![image](https://user-images.githubusercontent.com/93398718/153532795-cb439f41-5098-43a7-8d64-ea1a0277da1e.png)
 
 
 **33) ¿Qué frecuencia producirá una corriente rms total de 500 mA en cada circuito de la figura 13-47 con
