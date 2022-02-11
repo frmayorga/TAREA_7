@@ -155,6 +155,8 @@ Para el circuito (c) tenemos que L2 y L5 en serie, esta combinación esta en par
 
 #### 35) Determine IL2 en la figura 13-52.
 ![image](https://user-images.githubusercontent.com/93398718/150914480-66cdb832-84fd-440a-b74b-c472af14674f.png)
+- desarrollo:  
+![image](https://user-images.githubusercontent.com/93398718/153609516-d5e9a7bc-9877-467c-b36b-994253b7151e.png)  
 
 
 
