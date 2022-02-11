@@ -214,6 +214,11 @@ El cual nos da 60 V.
 
 ![image](https://user-images.githubusercontent.com/93561706/153545133-d14adccb-6b1a-47ff-bea3-2ff4970e26ef.png)
 
+#### 17) ¿Cuál debe ser la relación de vueltas en la figura 14-48 para reflejar 300 Æ en el circuito primario?  
+ 
+![image](https://user-images.githubusercontent.com/93398718/153555728-2427d0ed-e4f4-47cf-b71d-cbec9cb062e0.png)  
+
+
 
 **19) En la figura 14-49, ¿cuál es la potencia máxima que puede ser suministrada al altavoz de 4 Ohmios?**
 
@@ -245,6 +250,13 @@ Obteniendo una potencia de 9.75 vatios.
 
 ![image](https://user-images.githubusercontent.com/93561706/153545218-cafe6763-1620-4c45-b095-72feca42485c.png)
 
+
+#### 25) ¿Qué potencia nominal en kVA se requiere para un transformador que debe manejar una corriente máxima de 10 A a través de la carga con un voltaje secundario de 2.5 kV?  
+
+![image](https://user-images.githubusercontent.com/93398718/153557451-9bb7eeed-38cc-4950-ad91-24d7120f3ebb.png)
+
+
+
 ### 27) Determine cada uno de los voltajes desconocidos indicados en la figura 14-51{
 
 ![image](https://user-images.githubusercontent.com/93561706/153545245-c4198d19-a7b3-4c67-921c-0b275fe36c73.png)
@@ -262,6 +274,12 @@ Obteniendo una potencia de 9.75 vatios.
 ![image](https://user-images.githubusercontent.com/93561706/153545303-561f27d2-7d75-4edc-9f18-53333a73d948.png)
 
 ![image](https://user-images.githubusercontent.com/93561706/153545335-ac619f2f-2cea-4772-8a9a-ed32b21a9145.png)
+
+
+#### 33) ¿Qué es probable que suceda si el devanado primario de un transformador se pone en cortocircuito?
+
+Un devanado primario completamente en cortocircuito extraerá demasiada corriente de la fuente; y a menos que haya un cortacircuito o un fusible en el circuito, la fuente o el transformador, o ambos, se quemarán. Un corto parcial en el devanado primario puede provocar una corriente primaria más alta que lo normal o incluso excesiva.
+
 
 # VIDEO
 
