@@ -53,7 +53,8 @@ Utilizando la formula de la constante de tiempo tenemos:
 
 #### 23) Repita el problema 21 para los siguientes instantes:
 ![image](https://user-images.githubusercontent.com/93398718/150914185-1eb7c8c2-f956-4b74-95af-926763dc2ab3.png)    
-![image](https://user-images.githubusercontent.com/93398718/151298812-e0420ebf-120c-49ee-8707-ca9160fd17bb.png)  
+![image](https://user-images.githubusercontent.com/93398718/151298812-e0420ebf-120c-49ee-8707-ca9160fd17bb.png)    
+![image](https://user-images.githubusercontent.com/93398718/153542617-f191e434-6f8c-4fac-83c5-f596e1533e9b.png)
 
 
 **25) En la figura 13-48, ¿en qué momento luego de que se cierra el interruptor el voltaje llega a 5 V?**
@@ -65,8 +66,10 @@ Utilizando la formula de la constante de tiempo tenemos:
 
 
 #### 27) Determine la constante de tiempo para el circuito de la figura 13-50.
-![image](https://user-images.githubusercontent.com/93398718/150914264-b28ffeb2-7ad3-4b80-ade8-684072325dac.png)
 
+![image](https://user-images.githubusercontent.com/93398718/150914264-b28ffeb2-7ad3-4b80-ade8-684072325dac.png)
+- calculando ra recistencia total se tiene:  
+![image](https://user-images.githubusercontent.com/93398718/153543328-57568539-1f4b-44e2-a4b3-8517d0489abd.png)
 
 
 
