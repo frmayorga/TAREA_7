@@ -16,6 +16,8 @@ Fernanda Mayorga, Nicolas Reyes, Stalyn Castellanos
 
 ![INDUCTORES 1](https://user-images.githubusercontent.com/93361435/151095509-8cca7ad5-f22f-497d-91b0-529718e065fb.jpg)
 ![](https://github.com/frmayorga/TAREA_7/blob/main/deber%207.jpg)
+![resumen 14 parte 2](https://user-images.githubusercontent.com/93561706/153544261-ab3bce30-6633-4a8d-ae45-c88c9b3c0cc3.png)
+
 
 # EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
