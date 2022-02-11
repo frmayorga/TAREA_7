@@ -152,6 +152,11 @@ Para el circuito (c) tenemos que L2 y L5 en serie, esta combinación esta en par
 
 ### CAP 14
 
+#### 1) ¿Cuál es la inductancia mutua cuando k=0.75, L1=1 mH, y L2=4 mH?  
+
+![image](https://user-images.githubusercontent.com/93398718/153553253-367c3d39-b673-48b0-9c55-5d0d2e229778.png)
+
+
 ### 3) ¿Cuál es la relación de vueltas de un transformador con 250 vueltas en el primario y 1000 en el secundario?  ¿Cuál es la relación de vueltas cuando el devanado primario tiene 400 vueltas y el secundario 100?
 
 ![image](https://user-images.githubusercontent.com/93561706/153544984-1f9aa60b-592f-4734-8624-a1c390fff167.png)
@@ -179,7 +184,14 @@ Para el circuito (c) realizamos:
 Los voltajes estan en desface en 180 ya que los devanados tienen la direccion opuesta.
 
 
+#### 7) El devanado primario de un transformador tiene 120 V de ca a través de él. ¿Cuál es el voltaje secundario si la relación de vueltas es de 5?  
 
+![image](https://user-images.githubusercontent.com/93398718/153553457-1fa953ba-1ff4-4a5c-819f-d2b2c28f4d39.png)  
+
+
+#### 9) Para reducir 120 V a 30 V, ¿cuál debe ser la relación de vueltas?  
+
+![image](https://user-images.githubusercontent.com/93398718/153553612-2e3614fd-f418-4e9f-aaba-b7d52d4641a1.png)  
 
 
 **11) ¿Cuántos volts primarios se deben aplicar a un transformador que tiene relación de vueltas de 0.1 para obtener un voltaje secundario de 6 V de ca?**
