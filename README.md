@@ -88,7 +88,7 @@ Utilizando la formula de la constante de tiempo tenemos:
 
 ![image](https://user-images.githubusercontent.com/93561706/153544819-919acfb6-e35d-457a-9e2b-701cdca8335d.png)
 
-![image](https://user-images.githubusercontent.com/93561706/153547661-30901a11-08c0-41a9-a946-2f09483bdb33.png)
+![image](https://user-images.githubusercontent.com/93561706/153547770-158957df-04f5-4608-abc8-250a95ebf101.png)
 
 #### 23) Repita el problema 21 para los siguientes instantes:
 ![image](https://user-images.githubusercontent.com/93398718/150914185-1eb7c8c2-f956-4b74-95af-926763dc2ab3.png)    
