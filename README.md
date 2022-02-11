@@ -8,9 +8,14 @@ Fernanda Mayorga, Nicolas Reyes, Stalyn Castellanos
 
 ## OBJETIVO GENERAL 
 
+- Entender el funcionamiento de los inductores y transformadores a traves de la investigación y la realizacion de ejercicios con el fin de sustentar el conocimiento adquirido en clase 
 
 ## OBJETIVOS ESPECIFICOS
 
+- Realizar ejercicios de inductores y transformadores 
+- Especificar el funcionamiento de un inductor y transformador 
+- Especificar la caracteristica principal de un inductor
+- Especificar la caracteristica principal de un transformador
 
 # MARCO TEORICO
 
@@ -100,6 +105,9 @@ Utilizando la formula de la constante de tiempo tenemos:
 
 ![image](https://user-images.githubusercontent.com/93361435/151717725-6d9da56e-c093-4847-bd9f-d7861fe5dc38.png)
 
+Utilizando la formula de voltaje y realizando el respectivo despeje obtenemos 11.1 micro segundos, como vemos se hizo uso de la constante de tiempo.
+
+![image](https://user-images.githubusercontent.com/93361435/153595886-3e6ed2d5-2e63-422e-949d-ba24d3f95ef1.png)
 
 
 
@@ -283,10 +291,14 @@ Un devanado primario completamente en cortocircuito extraerá demasiada corrient
 
 # VIDEO
 
+https://youtu.be/Sg-7h7JlIds
 
 # CONCLUSIONES
 
-
+- Un inductor se caracteriza por guardar energia a traves del campo electromagnético, en corriente alterna se introduce un nuevo termino llamado reactancia inductiva que es la oposicion al paso de corriente. Un transformador permite la transferencia de potencia de un devanado a otro 
+- La caracteristica principal de un inductor es la inductancia y es una propiedad que mide la capacidad de una bobina para establecer un voltaje inducido como efecto del cambio de la corriente 
+- La caracteristica principal de un transformador s que esta formado por dos o mas bobinas acopladas magneticamente en un núcleo común, además un transformados no reacciona a la corriente directa. 
+- 
 # BIBLIOGRAFIA
 
 Floyd, T. (2007). Principios de circuitos eléctricos. Octava edición. Mexico. Editorial Pearson.
