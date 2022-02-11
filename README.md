@@ -23,9 +23,17 @@ Fernanda Mayorga, Nicolas Reyes, Stalyn Castellanos
 
 ### capitulo 13:
 
+#### 1)	Convierta los siguientes valores en milihenries:
+
+![image](https://user-images.githubusercontent.com/93561706/153544490-a5c9d2ec-2df5-4aa8-815f-02250df25174.png)
+
 #### 3) ¿Cuál es el voltaje en una bobina cuando di/dt * 10 mA/ms y L * 5 mH?
 
 Vin= 10*5 --> V= 50 mV
+
+#### #### 5) La corriente a través de una bobina de 100 mH cambia a razón de 200 mA/s. ¿Cuánto voltaje se induce en la bobina?
+
+![image](https://user-images.githubusercontent.com/93561706/153544536-c37b120d-fd03-4245-aef4-3bcdba1fa29b.png)
 
 **7) ¿Qué cantidad de energía se guarda en un inductor de 4.7 mH cuando la corriente es de 20 mA?**
 
@@ -33,24 +41,53 @@ Empleando la formula de energia para inductores tenemos:
 
 ![image](https://user-images.githubusercontent.com/93361435/151178441-2ff5b266-86fc-4525-a923-b9e2d0d42584.png)
 
+#### 9) Compare la inductancia de dos inductores idénticos excepto que el inductor 2 está enrollado sobre un núcleo de hierro (permeabilidad relativa = 150) y el inductor 1 está enrollado sobre un núcleo de acero al bajo carbono (permeabilidad relativa = 200).
+
+![image](https://user-images.githubusercontent.com/93561706/153544648-39cb397c-b4e8-4458-9375-463df90d2ac2.png)
+
 **11) Se conectan cinco inductores en serie. El valor más bajo es de 5 mH. Si el valor de cada inductor es el doble del valor precedente, y si los inductores se conectan en orden de valores ascendentes, ¿cuál es la inductancia total?**
 
 Debido a que tenemos el valor del inductor al extremo lo que debemos hacer es tener el doble de cada valor dado, por lo tanto tenemos dobles del inductor anterior, asi tenemos lo siguiente:
 
 ![image](https://user-images.githubusercontent.com/93361435/151192368-d41271fc-0876-4cc3-bfa4-36976bd3a19a.png)
 
+#### 13) Determine la inductancia total en la figura 13-44.
+
+![image](https://user-images.githubusercontent.com/93561706/153544669-94057e10-86b9-4356-a10a-5094ee080857.png)
+
+![image](https://user-images.githubusercontent.com/93561706/153544704-8c24b755-0b1f-425c-a53a-a7e32e736c3b.png)
 
 #### 15) Determine la inductancia total en paralelo para las siguientes bobinas dispuestas en paralelo: 75 mH, 50 mH, 25 mH, y 15 mH.
 
 - resolucion:  
 ![image](https://user-images.githubusercontent.com/93398718/151297597-f02d2d1a-d445-4eb8-a7b1-7b171e8286f8.png)
 
+#### 17)  Determine la inductancia total de cada circuito mostrado en la figura 13-46
+
+![image](https://user-images.githubusercontent.com/93561706/153544733-d6c01fe5-45bd-4c00-822f-02188317917b.png)
+
+![image](https://user-images.githubusercontent.com/93561706/153544739-3d49c8a5-738d-4ef9-96d9-fd5eb1ef4ad8.png)
+
+![image](https://user-images.githubusercontent.com/93561706/153544760-8107e726-8ba5-46e1-a0af-1c6339a7d08d.png)
+
+![image](https://user-images.githubusercontent.com/93561706/153544771-b92d52bf-c87a-4c3a-bb07-689a46cc9de9.png)
+
+![image](https://user-images.githubusercontent.com/93561706/153544791-38db5989-fdff-4e7e-8c40-607356653f8c.png)
+
+![image](https://user-images.githubusercontent.com/93561706/153544794-9bd1a52b-057c-4b28-b343-7e122bee132e.png)
+
+![image](https://user-images.githubusercontent.com/93561706/153544802-dbcf7fec-c787-426a-93db-f826f1ef8d8e.png)
 
 **19) Determine la constante de tiempo para cada una de las siguientes combinaciones RL dispuestas en serie:**
 
 Utilizando la formula de la constante de tiempo tenemos:
 
 ![image](https://user-images.githubusercontent.com/93361435/151203424-ce5f62a5-aa28-4915-b09b-cef615a849e7.png)
+
+#### 21) En el circuito de la figura 13-48, al inicio no hay corriente. Determine el voltaje en el inductor en los siguientes instantes tras de que se cierra el interruptor: 
+
+![image](https://user-images.githubusercontent.com/93561706/153544819-919acfb6-e35d-457a-9e2b-701cdca8335d.png)
+
 
 
 #### 23) Repita el problema 21 para los siguientes instantes:
@@ -113,6 +150,10 @@ Para el circuito (c) tenemos que L2 y L5 en serie, esta combinación esta en par
 
 ### CAP 14
 
+### 3) ¿Cuál es la relación de vueltas de un transformador con 250 vueltas en el primario y 1000 en el secundario?  ¿Cuál es la relación de vueltas cuando el devanado primario tiene 400 vueltas y el secundario 100?
+
+![image](https://user-images.githubusercontent.com/93561706/153544984-1f9aa60b-592f-4734-8624-a1c390fff167.png)
+
 **5) Para cada transformador de la figura 14-42, trace el voltaje secundario que muestre su relación con el voltaje primario. Indique también la amplitud.**
 
 ![image](https://user-images.githubusercontent.com/93361435/152910855-da8567d9-7756-40e9-be26-be2649c93332.png)
@@ -147,8 +188,17 @@ Utilizando las formulas ya vistas encontramos el voltaje primario:
 
 El cual nos da 60 V.
 
+### 13) Determine las lecturas de medidor no especificadas en la figura 14-44.
 
+![image](https://user-images.githubusercontent.com/93561706/153545077-751934a7-bd0b-45e5-bda5-d6ff912622f9.png)
 
+![image](https://user-images.githubusercontent.com/93561706/153545083-5d39b125-905e-40c6-af8b-541a984ce4d3.png)
+
+![image](https://user-images.githubusercontent.com/93561706/153545115-f49423a8-2ff8-4439-8007-1a273d958eec.png)
+
+![image](https://user-images.githubusercontent.com/93561706/153545100-1e360142-8399-4eb6-aeb8-c6f1d318486b.png)
+
+![image](https://user-images.githubusercontent.com/93561706/153545133-d14adccb-6b1a-47ff-bea3-2ff4970e26ef.png)
 
 
 **19) En la figura 14-49, ¿cuál es la potencia máxima que puede ser suministrada al altavoz de 4 Ohmios?**
@@ -173,6 +223,31 @@ Observamos que el valor de la resistencia es el mismo por el cual podemos asegur
 
 Obteniendo una potencia de 9.75 vatios.
 
+### 21) En cierto transformador, la potencia de entrada al primario es de 100 W, Si se pierden 5.5 W en las resistencias de devanado, ¿cuál es la potencia de salida hacia la carga, omitiendo cualesquiera otras pérdidas?
+
+![image](https://user-images.githubusercontent.com/93561706/153545176-16450f38-7775-4baa-bdb6-5bb3f8707317.png)
+
+### 23) Determine el coeficiente de acoplamiento de un transformador en el cual un 2% del flujo total generado en el primario no pasa a través del secundario
+
+![image](https://user-images.githubusercontent.com/93561706/153545218-cafe6763-1620-4c45-b095-72feca42485c.png)
+
+### 27) Determine cada uno de los voltajes desconocidos indicados en la figura 14-51{
+
+![image](https://user-images.githubusercontent.com/93561706/153545245-c4198d19-a7b3-4c67-921c-0b275fe36c73.png)
+
+![image](https://user-images.githubusercontent.com/93561706/153545260-c9c7008b-f7d6-4cf3-87ab-9680c40cbed6.png)
+
+### 29) Encuentre el voltaje secundario para cada uno de los autotransformadores mostrados en la figura 14-53.
+
+![image](https://user-images.githubusercontent.com/93561706/153545291-40b2dd67-a7f4-4388-97dc-1658de917ea4.png)
+
+![image](https://user-images.githubusercontent.com/93561706/153545295-29a5666d-c864-4fa4-9384-12f460aa938c.png)
+
+![image](https://user-images.githubusercontent.com/93561706/153545315-8a163cd6-7400-4b7d-abd9-76171b9a9c87.png)
+
+![image](https://user-images.githubusercontent.com/93561706/153545303-561f27d2-7d75-4edc-9f18-53333a73d948.png)
+
+![image](https://user-images.githubusercontent.com/93561706/153545335-ac619f2f-2cea-4772-8a9a-ed32b21a9145.png)
 
 # VIDEO
 
